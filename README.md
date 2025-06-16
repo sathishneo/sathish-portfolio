@@ -5,7 +5,7 @@ A modern, responsive portfolio website showcasing my skills and projects as a Fr
 
 ## 🚀 Live Demo
 
-**Portfolio URL**: [View Live Portfolio]()
+**Portfolio URL**: [View Live Portfolio]
 
 ## 👨‍💻 About Me
 
@@ -73,11 +73,12 @@ The portfolio is fully responsive and tested on:
 
 ## 🤝 Connect With Me
 
-- **Portfolio**: [Your Portfolio URL]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-- **Twitter**: [@sathishdev428](https://twitter.com/sathishdev428)
-- **Email**: [Your Email Address]
+- **Portfolio**: [https://sathishneo-portfolio.netlify.app/]
+  -**LinkedIn**:[https://www.linkedin.com/in/sathishneo]
+- **GitHub**: [https://github.com/sathishneo]
+- **Twitter**:(https://twitter.com/sathish_neo)
+- **Twitter**:(https://instagram.com/sathish_neo)
+- **Email**: [sathishdev428@gmail.com]
 
 ---
 
