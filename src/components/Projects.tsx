@@ -19,7 +19,7 @@ const Projects = () => {
       tech: ['HTML', 'CSS', 'JavaScript'],
       github: 'https://github.com/sathishneo/todo-app',
       live: '#',
-      image: 'https://images.unsplash.com/photo-1649972904349-6e44c42644a7?w=400&h=250&fit=crop'
+      image: 'https://unsplash.com/photos/person-writing-bucket-list-on-book-RLw-UC03Gwc'
     },
     {
       title: 'Weather App',
