@@ -82,6 +82,5 @@ The portfolio is fully responsive and tested on:
 
 ---
 
-⭐ **Star this repository** if you found it helpful!
 
-Built with ♥️ by Sathish Kumar
+
